@@ -31,7 +31,7 @@ accelerate
 #scikit-image
 
 # Demo only
-gradio
+gradio<6.0.0
 fastapi
 uvicorn
 rembg
